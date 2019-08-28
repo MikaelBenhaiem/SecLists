@@ -13,6 +13,7 @@ admin:password1
 admin:Password1
 admin:tomcat
 admin:vagrant
+admin:must-be-changed
 both:admanager
 both:admin
 both:adrole1
@@ -21,6 +22,7 @@ both:ads3cret
 both:adtomcat
 both:advagrant
 both:tomcat
+both:must-be-changed
 cxsdk:kdsxc
 j2deployer:j2deployer
 manager:admanager
@@ -31,6 +33,7 @@ manager:ads3cret
 manager:adtomcat
 manager:advagrant
 manager:manager
+manager:must-be-changed
 ovwebusr:OvW*busr1
 QCC:QLogic66
 role1:admanager
@@ -42,6 +45,7 @@ role1:adtomcat
 role1:advagrant
 role1:role1
 role1:tomcat
+role1:must-be-changed
 role:changethis
 root:admanager
 root:admin
@@ -73,6 +77,7 @@ tomcat:password1
 tomcat:s3cret
 tomcat:s3cret
 tomcat:tomcat
+tomcat:must-be-changed
 xampp:xampp
 server_admin:owaspbwa
 admin:owaspbwa
